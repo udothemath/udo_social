@@ -1,3 +1,3 @@
-[submodule "udo_social"]
-	path = udo_social
-	url = https://github.com/udothemath/udo_social.git
+[submodule "socialnetwork_info"]
+	path = socialnetwork_info
+	url = https://hellodevops.esunbank.com.tw/IF/socialnetwork_info/_git/socialnetwork_info
