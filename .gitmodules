@@ -1,3 +1,6 @@
 [submodule "socialnetwork_info"]
 	path = socialnetwork_info
 	url = https://hellodevops.esunbank.com.tw/IF/socialnetwork_info/_git/socialnetwork_info
+[submodule "socialnetwork_info_TFS"]
+	path = socialnetwork_info_TFS
+	url = https://hellodevops.esunbank.com.tw/IF/socialnetwork_info/_git/socialnetwork_info
